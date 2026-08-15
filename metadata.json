@@ -1,0 +1,6 @@
+{
+  "name": "MCPE Client",
+  "description": "Dark companion client for Minecraft Bedrock with performance profiles, HUD customizer, server manager, and mod loader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
